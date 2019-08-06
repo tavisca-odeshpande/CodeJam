@@ -42,8 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="NoPointSegment.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StandLine.cs" />
+    <Compile Include="TriFibonacci.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
