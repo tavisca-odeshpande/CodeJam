@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CreatePairs.cs" />
     <Compile Include="NoPointSegment.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StandLine.cs" />
